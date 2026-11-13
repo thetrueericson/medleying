@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Mix Studio - Créateur de Medley de Mariage",
+  "description": "Application web intuitive pour concevoir et exporter des medleys musicaux parfaits pour votre mariage, ouverture de bal ou animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
